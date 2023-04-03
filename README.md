@@ -2,7 +2,7 @@
 
 ### Desafio do Semáforo
 <p>
-    Um drum kit no qual ao clicamos em alguma letra que esta na tela tanto no teclado como pelo mouse e gerando um som.
+    Um countdown usando setInterval e Date, assim e gerando nosso slide mostrando o tempo que falta
 </p>
 <img src="tela.png" alt="tela">
 
